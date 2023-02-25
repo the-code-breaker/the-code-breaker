@@ -5,9 +5,9 @@
 -->
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on something cool ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on something cool
+- 🌱 I’m currently learning backend development
+- 💬 Ask me about ? kuch bhi pooch lo yr
 
 
 
