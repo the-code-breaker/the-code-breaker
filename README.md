@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently learning Generative AI
 - 💬 Ask me about ? kuch bhi pooch lo yr
 
 
